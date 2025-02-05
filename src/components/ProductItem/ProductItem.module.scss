@@ -1,0 +1,27 @@
+.image {
+  width: 20rem;
+  height: auto;
+  opacity: 1;
+  transition: all ease-in-out 0.25s;
+
+  &:hover {
+    cursor: pointer;
+    opacity: 0.9;
+  }
+}
+
+.details {
+  display: flex;
+  align-items: center;
+  gap: 0.2rem;
+  margin-left: 0.1rem;
+  justify-content: space-between;
+}
+
+.remove {
+  padding: 0.2rem 0.3rem;
+}
+
+.itemSize {
+  font-weight: 600;
+}
