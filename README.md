@@ -7,7 +7,7 @@ An e-shop for selling cool t-shirts.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/nikitao13/<>.git
+   git clone https://github.com/nikitao13/e-com.git
    ```
 
 2. Navigate to the project folder:
@@ -40,5 +40,6 @@ An e-shop for selling cool t-shirts.
 - Sort-by filters for products.
 - Fix cart logic
 - Improve UI
+- Mobile formatting
 
 ---
